@@ -6,7 +6,7 @@ import SimpleCarousel from "./simpleCarousel";
 
 
 const Home = () => {
-    const [currentActiveItem,setCurrentActiveItem] = useState(2);
+    const [currentActiveItem,setCurrentActiveItem] = useState(1);
     return (
        <>
            <section className="home" id="home">
